@@ -1,4 +1,4 @@
-import React from 'react';  
+// import React from 'react';  
 import amazingView from '../assets/myImages/Amazing views.png'  
 import cabins from '../assets/myImages/Cabins.png'  
 import beachFront from '../assets/myImages/Beachfronts.png'  

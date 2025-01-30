@@ -1,4 +1,4 @@
-import React from 'react';  
+// import React from 'react';  
 import earthImage from '../assets/Vector (2).png';  
 import menuIcon from '../assets/Icon.png';  
 import logInIcon from '../assets/Vector.png';  

@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import '../index.css'
 import sveImage from "../assets/Vector (4).png";
 import earthImage from "../assets/Vector (2).png";

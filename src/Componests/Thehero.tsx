@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import '../index.css'
 import heroImageFirst from '../assets/Frame 6 (21).png' 
 import heroImage2 from '../assets/Frame 6 (2).png'
