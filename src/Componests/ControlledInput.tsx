@@ -23,7 +23,7 @@ export default function ControlledInput() {
             return;  
         }  
         if (!isValidPassword(password)) {  
-            alert(Password" not strong enough use a mix of capital letter, number and symbols.");  
+            alert(password + "not strong enough use a mix of capital letter, number and symbols.");  
             return;  
         }  
 
